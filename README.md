@@ -9,3 +9,7 @@ This practical demonstrates the application of Natural Language Processing (NLP)
 ## NLP Project 3
 
 Developed a sentiment analysis system to classify movie reviews into Positive, Neutral, and Negative categories using the IMDb Top 1000 dataset. The project involves data preprocessing, sentiment labeling based on IMDb ratings, audience opinion analysis, and visualization of sentiment distributions through charts and word clouds. It helps understand viewer preferences and overall movie reception.
+
+## NLP Project 4
+
+Email Spam Detection is a rule-based NLP project that automatically classifies emails as **Spam** or **Ham (Non-Spam)**. It uses text preprocessing techniques such as lowercasing, tokenization, stopword removal, and keyword matching to identify spam emails without using machine learning models or vectorization methods.
